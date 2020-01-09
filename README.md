@@ -1,2 +1,2 @@
 # angular_spinup
-Setting up an Angular framework and building a tutorial app.
+Setting up an Angular tutorial app.
